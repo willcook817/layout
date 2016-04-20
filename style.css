@@ -1,0 +1,31 @@
+body {
+    background-color: blue;
+}
+.container {
+    width: 1200px;
+    background-color: white;
+    height: 1000px;
+    margin: 0 auto; 
+}
+nav {
+    height: 250px;
+    width: 100%;
+    background-color: orange;
+    text-align: center;
+}
+.left-pane {
+    float: left; 
+    height: 750px;
+    width: 50%;
+    background-color: pink;
+}
+.right-pane {
+    height: 750px;
+    width: 50%;
+    background-color: red;
+    float: right;
+}
+i {
+    font-size: 40px;
+    margin-top: 80px;
+}
